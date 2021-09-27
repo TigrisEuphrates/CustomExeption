@@ -21,5 +21,6 @@ namespace CustomExeption
             //ErrorTimeStamp = time;
         }
         //public override string Message => $"Car Error Message: {messageDetails}";
+        //changes to test smth
     }
 }
