@@ -1,0 +1,7 @@
+D:\Users\Tigris\source\repos\CustomExeption\CustomExeption\bin\Debug\CustomExeption.exe.config
+D:\Users\Tigris\source\repos\CustomExeption\CustomExeption\bin\Debug\CustomExeption.exe
+D:\Users\Tigris\source\repos\CustomExeption\CustomExeption\bin\Debug\CustomExeption.pdb
+D:\Users\Tigris\source\repos\CustomExeption\CustomExeption\obj\Debug\CustomExeption.csproj.AssemblyReference.cache
+D:\Users\Tigris\source\repos\CustomExeption\CustomExeption\obj\Debug\CustomExeption.csproj.CoreCompileInputs.cache
+D:\Users\Tigris\source\repos\CustomExeption\CustomExeption\obj\Debug\CustomExeption.exe
+D:\Users\Tigris\source\repos\CustomExeption\CustomExeption\obj\Debug\CustomExeption.pdb

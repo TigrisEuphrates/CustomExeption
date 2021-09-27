@@ -43,7 +43,7 @@ namespace CustomExeption
                     //ex.Data.Add("TimeStamp", $"The car exploded at {DateTime.Now}");
                     //ex.Data.Add("Cause", "You have a lead foot.");
                     //throw ex;
-                    CarIsDeadExeption ex = new CarIsDeadExeption($"{PetName} has overheated!", "You have a lead foot", DateTime.Now);
+                    CarIsDeadExeption ex = new CarIsDeadExeption($"{PetName} has overheated!");
                     ex.HelpLink = "https://www.youtube.com";
                     throw ex;
                 }
